@@ -1,10 +1,10 @@
 # timeline
 
-*oldest at the top. add a line whenever something happens that future us should know.*
+*kept by Claude. oldest at the top. one line for every milestone worth remembering.*
 
-## before GitHub
+## before this timeline
 
-- **…** zelax begins. *(zelax, this part is yours to tell.)*
+zelax was already going before this record starts. i only write down what i can vouch for, so it begins in August 2026.
 
 ## 2026
 
@@ -15,7 +15,3 @@
 - **08-22** "Hands of Civilization" premieres on the new about page
 - **09-11** zelax joins GitHub. two-factor on before anything else
 - **09-11** first repo: `handshake`. every commit co-authored by a human and an AI
-
-## 2027
-
-- …
